@@ -1,0 +1,53 @@
+.listheader{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    margin-right:  0px;
+    padding-left: 0px;
+}
+
+h1{
+    font-family: "Sarina", serif;
+    font-weight: normal;
+
+}
+
+li{
+    margin-right: 05px;
+    display: flex;
+
+}
+
+
+
+.headernav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    margin: 0 0;
+}
+
+.firstsection{
+    display: flex;
+}
+
+.bodystyle{
+    
+    background-image: url(../mediaqueries/images/fleurs/uriel-WS4JcpoZz6E-unsplash.jpg);
+}
+
+.mainstyle{
+    background-color: white;
+}
+
+.headerstyle{
+    width:1fr;
+    display: flex;
+    justify-content: center;
+    margin:0% 1fr 1fr ;
+}
+
+.footerstyle{
+    background-color: white;
+}
